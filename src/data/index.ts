@@ -1,3 +1,5 @@
 import navLinks from "./navLinks";
+import blogs from "./blogs";
+import { products } from "./products";
 
-export default navLinks;
+export { navLinks, blogs, products };
